@@ -1,5 +1,4 @@
 # Projeto WebFlix com Django
-<hr>
 
 ## 📑 Sobre o Projeto
 Site voltado para classificação de filmes por genêro, mais assistidos, etc.
@@ -27,7 +26,6 @@ Uma plataforma parecida com o streaming Netflix
 
 
 ## ✨ Passo a passo
-<hr>
 
 ### 01.08.2023
 Para iniciar o projeto é preciso instalar o django, no termina digite:
