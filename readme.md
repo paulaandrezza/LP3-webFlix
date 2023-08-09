@@ -40,3 +40,18 @@ Para abrir o projeto, no terminal digite, ele irá rodar na porta `http://127.0.
 ```commandline
 python manage.py runserver
 ```
+
+
+### 08.08.2023
+Para iniciar a o app filme, no terminal digite:
+```
+django-admin startapp filme
+```
+Para fazer migrações:
+```
+python manage.py migrate
+```
+Para criar um superusuario:
+```
+python manage.py createsuperuser
+```
